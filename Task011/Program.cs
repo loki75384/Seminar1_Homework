@@ -12,3 +12,4 @@ int secondValue = number % 10;
 int thirdValue = number % 10;
 Console.WriteLine(number + " " + firstValue + thirdValue);
 
+// Console.WriteLine($" {number} -> {firstValue}{lastValue}"); - интерполяция
