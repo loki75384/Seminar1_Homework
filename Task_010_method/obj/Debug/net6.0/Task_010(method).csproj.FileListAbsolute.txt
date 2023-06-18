@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\bin\Debug\net6.0\Task_010(method).exe
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\bin\Debug\net6.0\Task_010(method).deps.json
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\bin\Debug\net6.0\Task_010(method).runtimeconfig.json
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\bin\Debug\net6.0\Task_010(method).dll
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\bin\Debug\net6.0\Task_010(method).pdb
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).AssemblyInfo.cs
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).dll
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\refint\Task_010(method).dll
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).pdb
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\Task_010(method).genruntimeconfig.cache
+C:\Users\User\Desktop\Новая папка\Basic Algorithms\Seminar1_Homework\Task_010(method)\obj\Debug\net6.0\ref\Task_010(method).dll
