@@ -6,7 +6,7 @@
 Console.WriteLine("Введите число: ");
 int N = int.Parse(Console.ReadLine()!);
 
-int index = 0;
+int index = 2;
 
 while (index <= N)
 {
