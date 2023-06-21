@@ -3,6 +3,10 @@
 // номер четверти плоскости, в которой находится эта
 // точка.
 
+int x = Promt("Введите координату x: ");
+int y = Promt("Введите координату y: ");
+FindQuarter(x, y);
+
 int Promt(string message)
 {
     Console.Write(message);
@@ -11,28 +15,26 @@ int Promt(string message)
     return result;
 }
 
-int x = Promt("Введите координату x: ");
-int y = Promt("Введите координату y: ");
-// Console.WriteLine();
-// Console.Write(x + " " + y);
-
-if (x > 0 && y > 0)
+void FindQuarter(int X, int Y)
 {
-    Console.WriteLine("1 четверть");
-}
-else if (x < 0 && y > 0)
-{
-    Console.WriteLine("2 четверть");
-}
-else if (x < 0 && y < 0)
-{
-    Console.WriteLine("3 четверть");
-}
-else if (x > 0 && y < 0)
-{
-    Console.WriteLine("4 четверть");
-}
-else
-{
-    Console.WriteLine("Ошибка");
+    if (X > 0 && Y > 0)
+    {
+        Console.WriteLine("1 четверть");
+    }
+    else if (X < 0 && Y > 0)
+    {
+        Console.WriteLine("2 четверть");
+    }
+    else if (X < 0 && Y < 0)
+    {
+        Console.WriteLine("3 четверть");
+    }
+    else if (X > 0 && Y < 0)
+    {
+        Console.WriteLine("4 четверть");
+    }
+    else
+    {
+        Console.WriteLine("Ошибка");
+    }
 }
