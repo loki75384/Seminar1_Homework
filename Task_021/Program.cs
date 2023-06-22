@@ -11,7 +11,6 @@ int xb = Promt("Введите координату xB: ");
 int ya = Promt("Введите координату yA: ");
 int yb = Promt("Введите координату yB: ");
 
-
 int Promt(string message)
 {
     Console.Write(message);
